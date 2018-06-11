@@ -1,0 +1,186 @@
+unitvector.cc.bc
+ 
+ total redundant are 0
+lprowset.cc.bc
+ 
+ total redundant are 0
+enter.cc.bc
+ 
+ total redundant are 8
+example.cc.bc
+ 
+ total redundant are 1
+spxaggregatesm.cc.bc
+ 
+ total redundant are 13
+spxsolve.cc.bc
+ 
+ total redundant are 1
+spxshift.cc.bc
+ 
+ total redundant are 7
+spxparmultpr.cc.bc
+ 
+ total redundant are 1
+spxsolver.cc.bc
+ 
+ total redundant are 1
+spxvecs.cc.bc
+ 
+ total redundant are 1
+spxredundantsm.cc.bc
+ 
+ total redundant are 4
+factor.cc.bc
+ 
+ total redundant are 3
+spxdefaultrt.cc.bc
+ 
+ total redundant are 1
+spxid.cc.bc
+ 
+ total redundant are 0
+lprow.cc.bc
+ 
+ total redundant are 0
+spxio.cc.bc
+ 
+ total redundant are 0
+spxdefines.cc.bc
+ 
+ total redundant are 0
+forest.cc.bc
+ 
+ total redundant are 3
+svset.cc.bc
+ 
+ total redundant are 8
+spxweightpr.cc.bc
+ 
+ total redundant are 1
+spxscaler.cc.bc
+ 
+ total redundant are 0
+spxfastrt.cc.bc
+ 
+ total redundant are 9
+spxstarter.cc.bc
+ 
+ total redundant are 0
+dsvector.cc.bc
+ 
+ total redundant are 0
+message.cc.bc
+ 
+ total redundant are 0
+changesoplex.cc.bc
+ 
+ total redundant are 0
+spxgeneralsm.cc.bc
+ 
+ total redundant are 0
+mpsinput.cc.bc
+ 
+ total redundant are 0
+spxhybridpr.cc.bc
+ 
+ total redundant are 0
+spxharrisrt.cc.bc
+ 
+ total redundant are 9
+spxmpswrite.cc.bc
+ 
+ total redundant are 1
+solve.cc.bc
+ 
+ total redundant are 0
+leave.cc.bc
+ 
+ total redundant are 3
+spxdefaultpr.cc.bc
+ 
+ total redundant are 0
+spxdesc.cc.bc
+ 
+ total redundant are 0
+spxbounds.cc.bc
+ 
+ total redundant are 1
+spxchangebasis.cc.bc
+ 
+ total redundant are 1
+soplex.cc.bc
+ 
+ total redundant are 2
+nameset.cc.bc
+ 
+ total redundant are 1
+spxsteeppr.cc.bc
+ 
+ total redundant are 1
+vector.cc.bc
+ 
+ total redundant are 1
+vsolve.cc.bc
+ 
+ total redundant are 2
+timer.cc.bc
+ 
+ total redundant are 0
+didxset.cc.bc
+ 
+ total redundant are 0
+spxlp.cc.bc
+ 
+ total redundant are 1
+lpcolset.cc.bc
+ 
+ total redundant are 0
+slufactor.cc.bc
+ 
+ total redundant are 0
+spxquality.cc.bc
+ 
+ total redundant are 0
+spxsumst.cc.bc
+ 
+ total redundant are 0
+spxrem1sm.cc.bc
+ 
+ total redundant are 1
+dvector.cc.bc
+ 
+ total redundant are 0
+idxset.cc.bc
+ 
+ total redundant are 0
+spxmpsread.cc.bc
+ 
+ total redundant are 1
+update.cc.bc
+ 
+ total redundant are 0
+spxlpfread.cc.bc
+ 
+ total redundant are 2
+svector.cc.bc
+ 
+ total redundant are 0
+spxweightst.cc.bc
+ 
+ total redundant are 7
+spxbasis.cc.bc
+ 
+ total redundant are 2
+spxvectorst.cc.bc
+ 
+ total redundant are 0
+updatevector.cc.bc
+ 
+ total redundant are 0
+spxequilisc.cc.bc
+ 
+ total redundant are 0
+ssvector.cc.bc
+ 
+ total redundant are 0

@@ -1,0 +1,171 @@
+eps.c.bc
+ 
+ total redundant are 0
+hmmsearch.c.bc
+ 
+ total redundant are 1
+shuffle.c.bc
+ 
+ total redundant are 23
+seqencode.c.bc
+ 
+ total redundant are 0
+sre_string.c.bc
+ 
+ total redundant are 0
+misc.c.bc
+ 
+ total redundant are 0
+sqio.c.bc
+ 
+ total redundant are 3
+fast_algorithms.c.bc
+ 
+ total redundant are 10
+aligneval.c.bc
+ 
+ total redundant are 0
+stack.c.bc
+ 
+ total redundant are 0
+revcomp.c.bc
+ 
+ total redundant are 0
+gsi.c.bc
+ 
+ total redundant are 1
+prior.c.bc
+ 
+ total redundant are 0
+rk.c.bc
+ 
+ total redundant are 0
+emit.c.bc
+ 
+ total redundant are 12
+trace.c.bc
+ 
+ total redundant are 15
+display.c.bc
+ 
+ total redundant are 14
+hsregex.c.bc
+ 
+ total redundant are 0
+squidcore.c.bc
+ 
+ total redundant are 0
+stockholm.c.bc
+ 
+ total redundant are 6
+ucbqsort.c.bc
+ 
+ total redundant are 0
+hmmio.c.bc
+ 
+ total redundant are 2
+types.c.bc
+ 
+ total redundant are 2
+clustal.c.bc
+ 
+ total redundant are 0
+msa.c.bc
+ 
+ total redundant are 0
+gki.c.bc
+ 
+ total redundant are 0
+file.c.bc
+ 
+ total redundant are 0
+masks.c.bc
+ 
+ total redundant are 0
+tophits.c.bc
+ 
+ total redundant are 0
+msf.c.bc
+ 
+ total redundant are 0
+phylip.c.bc
+ 
+ total redundant are 0
+weight.c.bc
+ 
+ total redundant are 9
+vectorops.c.bc
+ 
+ total redundant are 0
+emulation.c.bc
+ 
+ total redundant are 6
+postprob.c.bc
+ 
+ total redundant are 32
+translate.c.bc
+ 
+ total redundant are 0
+a2m.c.bc
+ 
+ total redundant are 0
+alphabet.c.bc
+ 
+ total redundant are 1
+sre_math.c.bc
+ 
+ total redundant are 0
+selex.c.bc
+ 
+ total redundant are 1
+mathsupport.c.bc
+ 
+ total redundant are 1
+sre_random.c.bc
+ 
+ total redundant are 0
+getopt.c.bc
+ 
+ total redundant are 2
+ssi.c.bc
+ 
+ total redundant are 5
+iupac.c.bc
+ 
+ total redundant are 0
+core_algorithms.c.bc
+ 
+ total redundant are 147
+dayhoff.c.bc
+ 
+ total redundant are 0
+cluster.c.bc
+ 
+ total redundant are 21
+hmmcalibrate.c.bc
+ 
+ total redundant are 1
+sre_ctype.c.bc
+ 
+ total redundant are 0
+plan7.c.bc
+ 
+ total redundant are 14
+histogram.c.bc
+ 
+ total redundant are 14
+alignio.c.bc
+ 
+ total redundant are 2
+sqerror.c.bc
+ 
+ total redundant are 0
+debug.c.bc
+ 
+ total redundant are 9
+plan9.c.bc
+ 
+ total redundant are 5
+modelmakers.c.bc
+ 
+ total redundant are 55

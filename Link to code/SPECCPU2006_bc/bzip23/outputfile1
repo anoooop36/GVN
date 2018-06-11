@@ -1,0 +1,27 @@
+blocksort.c.bc
+ 
+ total redundant are 36
+huffman.c.bc
+ 
+ total redundant are 8
+bzip2.c.bc
+ 
+ total redundant are 0
+crctable.c.bc
+ 
+ total redundant are 0
+decompress.c.bc
+ 
+ total redundant are 10
+bzlib.c.bc
+ 
+ total redundant are 1
+spec.c.bc
+ 
+ total redundant are 3
+randtable.c.bc
+ 
+ total redundant are 0
+compress.c.bc
+ 
+ total redundant are 1

@@ -1,0 +1,126 @@
+annexb.c.bc
+
+ total no of redundant expression are: 0
+biariencode.c.bc
+
+ total no of redundant expression are: 0
+block.c.bc
+
+ total no of redundant expression are: 114
+cabac.c.bc
+
+ total no of redundant expression are: 2
+configfile.c.bc
+
+ total no of redundant expression are: 0
+context_ini.c.bc
+
+ total no of redundant expression are: 1
+decoder.c.bc
+
+ total no of redundant expression are: 84
+explicit_gop.c.bc
+
+ total no of redundant expression are: 16
+fast_me.c.bc
+
+ total no of redundant expression are: 22
+filehandle.c.bc
+
+ total no of redundant expression are: 0
+fmo.c.bc
+
+ total no of redundant expression are: 5
+header.c.bc
+
+ total no of redundant expression are: 0
+image.c.bc
+
+ total no of redundant expression are: 110
+intrarefresh.c.bc
+
+ total no of redundant expression are: 0
+leaky_bucket.c.bc
+
+ total no of redundant expression are: 6
+lencod.c.bc
+
+ total no of redundant expression are: 1
+loopFilter.c.bc
+
+ total no of redundant expression are: 24
+macroblock.c.bc
+
+ total no of redundant expression are: 110
+mb_access.c.bc
+
+ total no of redundant expression are: 4
+mbuffer.c.bc
+
+ total no of redundant expression are: 316
+memalloc.c.bc
+
+ total no of redundant expression are: 1
+mv-search.c.bc
+
+ total no of redundant expression are: 85
+nal.c.bc
+
+ total no of redundant expression are: 0
+nalu.c.bc
+
+ total no of redundant expression are: 0
+nalucommon.c.bc
+
+ total no of redundant expression are: 0
+output.c.bc
+
+ total no of redundant expression are: 0
+parset.c.bc
+
+ total no of redundant expression are: 4
+parsetcommon.c.bc
+
+ total no of redundant expression are: 0
+q_matrix.c.bc
+
+ total no of redundant expression are: 0
+q_offsets.c.bc
+
+ total no of redundant expression are: 0
+ratectl.c.bc
+
+ total no of redundant expression are: 72
+rdopt.c.bc
+
+ total no of redundant expression are: 406
+rdopt_coding_state.c.bc
+
+ total no of redundant expression are: 0
+rdpicdecision.c.bc
+
+ total no of redundant expression are: 0
+refbuf.c.bc
+
+ total no of redundant expression are: 10
+rtp.c.bc
+
+ total no of redundant expression are: 0
+sei.c.bc
+
+ total no of redundant expression are: 3
+slice.c.bc
+
+ total no of redundant expression are: 3
+specrand.c.bc
+
+ total no of redundant expression are: 0
+transform8x8.c.bc
+
+ total no of redundant expression are: 137
+vlc.c.bc
+
+ total no of redundant expression are: 2
+weighted_prediction.c.bc
+
+ total no of redundant expression are: 21

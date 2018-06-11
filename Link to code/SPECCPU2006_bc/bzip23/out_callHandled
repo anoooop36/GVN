@@ -1,0 +1,27 @@
+blocksort.c.bc
+
+ total no of redundant expression are: 36
+bzip2.c.bc
+
+ total no of redundant expression are: 0
+bzlib.c.bc
+
+ total no of redundant expression are: 0
+compr ss.c.bc
+
+ total no of redundant expression are: 1
+crctabl .c.bc
+
+ total no of redundant expression are: 0
+d compr ss.c.bc
+
+ total no of redundant expression are: 4
+huffma .c.bc
+
+ total no of redundant expression are: 4
+ra dtabl .c.bc
+
+ total no of redundant expression are: 0
+sp c.c.bc
+
+ total no of redundant expression are: 2

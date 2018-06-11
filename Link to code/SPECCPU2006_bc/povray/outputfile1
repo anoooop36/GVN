@@ -1,0 +1,276 @@
+matrices.cpp.bc
+ 
+ total redundant are 53
+renderio.cpp.bc
+ 
+ total redundant are 1
+stringutilities.cpp.bc
+ 
+ total redundant are 0
+specrand.cpp.bc
+ 
+ total redundant are 0
+express.cpp.bc
+ 
+ total redundant are 1
+fractal.cpp.bc
+ 
+ total redundant are 7
+colutils.cpp.bc
+ 
+ total redundant are 0
+discs.cpp.bc
+ 
+ total redundant are 2
+lbuffer.cpp.bc
+ 
+ total redundant are 0
+chi2.cpp.bc
+ 
+ total redundant are 0
+hcmplx.cpp.bc
+ 
+ total redundant are 24
+pattern.cpp.bc
+ 
+ total redundant are 39
+fnsyntax.cpp.bc
+ 
+ total redundant are 0
+pgm.cpp.bc
+ 
+ total redundant are 0
+vbuffer.cpp.bc
+ 
+ total redundant are 21
+pov_util.cpp.bc
+ 
+ total redundant are 0
+textstream.cpp.bc
+ 
+ total redundant are 0
+statspov.cpp.bc
+ 
+ total redundant are 0
+spec_qsort.cpp.bc
+ 
+ total redundant are 0
+txttest.cpp.bc
+ 
+ total redundant are 0
+tokenize.cpp.bc
+ 
+ total redundant are 0
+photons.cpp.bc
+ 
+ total redundant are 20
+texture.cpp.bc
+ 
+ total redundant are 12
+renderfrontend.cpp.bc
+ 
+ total redundant are 0
+fnintern.cpp.bc
+ 
+ total redundant are 79
+fileinputoutput.cpp.bc
+ 
+ total redundant are 0
+parstxtr.cpp.bc
+ 
+ total redundant are 0
+bezier.cpp.bc
+ 
+ total redundant are 39
+sor.cpp.bc
+ 
+ total redundant are 17
+ppm.cpp.bc
+ 
+ total redundant are 0
+fnpovfpu.cpp.bc
+ 
+ total redundant are 4
+bcyl.cpp.bc
+ 
+ total redundant are 3
+vlbuffer.cpp.bc
+ 
+ total redundant are 0
+camera.cpp.bc
+ 
+ total redundant are 0
+poly.cpp.bc
+ 
+ total redundant are 7
+povray.cpp.bc
+ 
+ total redundant are 0
+optout.cpp.bc
+ 
+ total redundant are 0
+render.cpp.bc
+ 
+ total redundant are 40
+defaultrenderfrontend.cpp.bc
+ 
+ total redundant are 0
+atmosph.cpp.bc
+ 
+ total redundant are 2
+boxes.cpp.bc
+ 
+ total redundant are 0
+planes.cpp.bc
+ 
+ total redundant are 0
+mathutil.cpp.bc
+ 
+ total redundant are 0
+truetype.cpp.bc
+ 
+ total redundant are 7
+torus.cpp.bc
+ 
+ total redundant are 4
+polysolv.cpp.bc
+ 
+ total redundant are 9
+quadrics.cpp.bc
+ 
+ total redundant are 23
+defaultplatformbase.cpp.bc
+ 
+ total redundant are 0
+octree.cpp.bc
+ 
+ total redundant are 5
+function.cpp.bc
+ 
+ total redundant are 0
+image.cpp.bc
+ 
+ total redundant are 12
+iff.cpp.bc
+ 
+ total redundant are 3
+povmscpp.cpp.bc
+ 
+ total redundant are 0
+processoptions.cpp.bc
+ 
+ total redundant are 0
+cones.cpp.bc
+ 
+ total redundant are 3
+splines.cpp.bc
+ 
+ total redundant are 56
+rendctrl.cpp.bc
+ 
+ total redundant are 0
+histogra.cpp.bc
+ 
+ total redundant are 0
+radiosit.cpp.bc
+ 
+ total redundant are 5
+normal.cpp.bc
+ 
+ total redundant are 0
+userio.cpp.bc
+ 
+ total redundant are 0
+pigment.cpp.bc
+ 
+ total redundant are 0
+csg.cpp.bc
+ 
+ total redundant are 1
+parsestr.cpp.bc
+ 
+ total redundant are 0
+hfield.cpp.bc
+ 
+ total redundant are 19
+lighting.cpp.bc
+ 
+ total redundant are 51
+ray.cpp.bc
+ 
+ total redundant are 1
+triangle.cpp.bc
+ 
+ total redundant are 0
+parse.cpp.bc
+ 
+ total redundant are 5
+lightgrp.cpp.bc
+ 
+ total redundant are 0
+povms.cpp.bc
+ 
+ total redundant are 2
+prism.cpp.bc
+ 
+ total redundant are 3
+targa.cpp.bc
+ 
+ total redundant are 8
+quatern.cpp.bc
+ 
+ total redundant are 2
+fpmetric.cpp.bc
+ 
+ total redundant are 15
+point.cpp.bc
+ 
+ total redundant are 0
+rad_data.cpp.bc
+ 
+ total redundant are 0
+povmsrec.cpp.bc
+ 
+ total redundant are 0
+pov_mem.cpp.bc
+ 
+ total redundant are 1
+fncode.cpp.bc
+ 
+ total redundant are 1
+colour.cpp.bc
+ 
+ total redundant are 0
+processrenderoptions.cpp.bc
+ 
+ total redundant are 0
+lathe.cpp.bc
+ 
+ total redundant are 0
+blob.cpp.bc
+ 
+ total redundant are 29
+textstreambuffer.cpp.bc
+ 
+ total redundant are 0
+spheres.cpp.bc
+ 
+ total redundant are 0
+userdisp.cpp.bc
+ 
+ total redundant are 0
+mesh.cpp.bc
+ 
+ total redundant are 0
+polygon.cpp.bc
+ 
+ total redundant are 0
+interior.cpp.bc
+ 
+ total redundant are 0
+warps.cpp.bc
+ 
+ total redundant are 0
+objects.cpp.bc
+ 
+ total redundant are 0

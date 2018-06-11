@@ -1,0 +1,126 @@
+parsetcommon.c.bc
+ 
+ total redundant are 0
+output.c.bc
+ 
+ total redundant are 0
+explicit_gop.c.bc
+ 
+ total redundant are 20
+block.c.bc
+ 
+ total redundant are 133
+image.c.bc
+ 
+ total redundant are 107
+sei.c.bc
+ 
+ total redundant are 2
+refbuf.c.bc
+ 
+ total redundant are 6
+mbuffer.c.bc
+ 
+ total redundant are 270
+transform8x8.c.bc
+ 
+ total redundant are 139
+loopFilter.c.bc
+ 
+ total redundant are 52
+fast_me.c.bc
+ 
+ total redundant are 139
+macroblock.c.bc
+ 
+ total redundant are 94
+header.c.bc
+ 
+ total redundant are 2
+cabac.c.bc
+ 
+ total redundant are 5
+configfile.c.bc
+ 
+ total redundant are 2
+nalucommon.c.bc
+ 
+ total redundant are 0
+context_ini.c.bc
+ 
+ total redundant are 5
+rdpicdecision.c.bc
+ 
+ total redundant are 0
+decoder.c.bc
+ 
+ total redundant are 74
+parset.c.bc
+ 
+ total redundant are 4
+ratectl.c.bc
+ 
+ total redundant are 66
+specrand.c.bc
+ 
+ total redundant are 0
+leaky_bucket.c.bc
+ 
+ total redundant are 4
+rdopt.c.bc
+ 
+ total redundant are 364
+weighted_prediction.c.bc
+ 
+ total redundant are 28
+mb_access.c.bc
+ 
+ total redundant are 5
+filehandle.c.bc
+ 
+ total redundant are 0
+intrarefresh.c.bc
+ 
+ total redundant are 0
+biariencode.c.bc
+ 
+ total redundant are 0
+rdopt_coding_state.c.bc
+ 
+ total redundant are 0
+rtp.c.bc
+ 
+ total redundant are 0
+vlc.c.bc
+ 
+ total redundant are 2
+mv-search.c.bc
+ 
+ total redundant are 260
+nalu.c.bc
+ 
+ total redundant are 0
+lencod.c.bc
+ 
+ total redundant are 5
+slice.c.bc
+ 
+ total redundant are 0
+fmo.c.bc
+ 
+ total redundant are 5
+annexb.c.bc
+ 
+ total redundant are 0
+q_matrix.c.bc
+ 
+ total redundant are 3
+memalloc.c.bc
+ 
+ total redundant are 1
+nal.c.bc
+ 
+ total redundant are 0
+q_offsets.c.bc
+ 
+ total redundant are 3

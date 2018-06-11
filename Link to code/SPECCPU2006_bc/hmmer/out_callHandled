@@ -1,0 +1,171 @@
+a2m.c.bc
+
+ total no of redundant expression are: 0
+aligneval.c.bc
+
+ total no of redundant expression are: 0
+alignio.c.bc
+
+ total no of redundant expression are: 0
+alphabet.c.bc
+
+ total no of redundant expression are: 1
+clustal.c.bc
+
+ total no of redundant expression are: 0
+cluster.c.bc
+
+ total no of redundant expression are: 38
+core_algorithms.c.bc
+
+ total no of redundant expression are: 143
+dayhoff.c.bc
+
+ total no of redundant expression are: 0
+debug.c.bc
+
+ total no of redundant expression are: 9
+display.c.bc
+
+ total no of redundant expression are: 14
+emit.c.bc
+
+ total no of redundant expression are: 9
+emulation.c.bc
+
+ total no of redundant expression are: 6
+eps.c.bc
+
+ total no of redundant expression are: 0
+fast_algorithms.c.bc
+
+ total no of redundant expression are: 15
+file.c.bc
+
+ total no of redundant expression are: 0
+getopt.c.bc
+
+ total no of redundant expression are: 2
+gki.c.bc
+
+ total no of redundant expression are: 0
+gsi.c.bc
+
+ total no of redundant expression are: 0
+histogram.c.bc
+
+ total no of redundant expression are: 11
+hmmcalibrate.c.bc
+
+ total no of redundant expression are: 0
+hmmio.c.bc
+
+ total no of redundant expression are: 2
+hmmsearch.c.bc
+
+ total no of redundant expression are: 1
+hsregex.c.bc
+
+ total no of redundant expression are: 0
+iupac.c.bc
+
+ total no of redundant expression are: 0
+masks.c.bc
+
+ total no of redundant expression are: 1
+mathsupport.c.bc
+
+ total no of redundant expression are: 1
+misc.c.bc
+
+ total no of redundant expression are: 0
+modelmakers.c.bc
+
+ total no of redundant expression are: 50
+msa.c.bc
+
+ total no of redundant expression are: 0
+msf.c.bc
+
+ total no of redundant expression are: 0
+phylip.c.bc
+
+ total no of redundant expression are: 0
+plan7.c.bc
+
+ total no of redundant expression are: 4
+plan9.c.bc
+
+ total no of redundant expression are: 0
+postprob.c.bc
+
+ total no of redundant expression are: 27
+prior.c.bc
+
+ total no of redundant expression are: 0
+revcomp.c.bc
+
+ total no of redundant expression are: 0
+rk.c.bc
+
+ total no of redundant expression are: 0
+selex.c.bc
+
+ total no of redundant expression are: 0
+seqencode.c.bc
+
+ total no of redundant expression are: 0
+shuffle.c.bc
+
+ total no of redundant expression are: 23
+sqerror.c.bc
+
+ total no of redundant expression are: 0
+sqio.c.bc
+
+ total no of redundant expression are: 1
+squidcore.c.bc
+
+ total no of redundant expression are: 0
+sre_ctype.c.bc
+
+ total no of redundant expression are: 0
+sre_math.c.bc
+
+ total no of redundant expression are: 0
+sre_random.c.bc
+
+ total no of redundant expression are: 0
+sre_string.c.bc
+
+ total no of redundant expression are: 0
+ssi.c.bc
+
+ total no of redundant expression are: 5
+stack.c.bc
+
+ total no of redundant expression are: 0
+stockholm.c.bc
+
+ total no of redundant expression are: 6
+tophits.c.bc
+
+ total no of redundant expression are: 1
+trace.c.bc
+
+ total no of redundant expression are: 4
+translate.c.bc
+
+ total no of redundant expression are: 0
+types.c.bc
+
+ total no of redundant expression are: 2
+ucbqsort.c.bc
+
+ total no of redundant expression are: 0
+vectorops.c.bc
+
+ total no of redundant expression are: 0
+weight.c.bc
+
+ total no of redundant expression are: 3

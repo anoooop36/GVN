@@ -1,0 +1,31 @@
+
+    mkdir code
+    cd code/
+    gedit hello.cpp
+    PATH=/usr/clang/bin/:$PATH
+    clang -c -emit-llvm hello.cpp -o hello.bc
+    opt -load /home/cilab/LLVM/build/lib/LLVMHello.so -help
+    opt -load /home/cilab/LLVM/build/lib/LLVMHello.so -help | grep Hello
+    opt -load /home/cilab/LLVM/build/lib/LLVMHello.so -hello < hello.bc > /dev/null
+    opt -load /home/cilab/LLVM/build/lib/LLVMHello.so -hello  -time-passes < hello.bc > /dev/null
+    
+    
+    // .bc to .ll
+    llvm-dis hello.bc
+    
+    // .ll to .bc
+    llvm-as hello.ll
+    
+    
+    
+    
+    // to get dot file for cfg
+    opt -dot-cfg -o dead.bc dead.bc
+    //dot to cfg figure
+     dot -Tfig -O cfg.main.dot
+     
+     
+     //to see order of passes use flag
+      --debug-pass=Structure
+    
+

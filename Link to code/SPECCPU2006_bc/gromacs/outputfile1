@@ -1,0 +1,363 @@
+init.c.bc
+ 
+ total redundant are 0
+filenm.c.bc
+ 
+ total redundant are 1
+xutils.c.bc
+ 
+ total redundant are 27
+nrnb.c.bc
+ 
+ total redundant are 0
+synclib.c.bc
+ 
+ total redundant are 0
+force.c.bc
+ 
+ total redundant are 16
+pbc.c.bc
+ 
+ total redundant are 3
+tgroup.c.bc
+ 
+ total redundant are 0
+calcgrid.c.bc
+ 
+ total redundant are 0
+maths.c.bc
+ 
+ total redundant are 139
+pullinit.c.bc
+ 
+ total redundant are 0
+wgms.c.bc
+ 
+ total redundant are 0
+wman.c.bc
+ 
+ total redundant are 0
+ifunc.c.bc
+ 
+ total redundant are 0
+mdatom.c.bc
+ 
+ total redundant are 1
+nrjac.c.bc
+ 
+ total redundant are 0
+calcmu.c.bc
+ 
+ total redundant are 0
+ffscanf.c.bc
+ 
+ total redundant are 0
+fftgrid.c.bc
+ 
+ total redundant are 3
+replace.c.bc
+ 
+ total redundant are 8
+rmpbc.c.bc
+ 
+ total redundant are 0
+do_gct.c.bc
+ 
+ total redundant are 10
+gmx_system_xdr.c.bc
+ 
+ total redundant are 0
+ebin.c.bc
+ 
+ total redundant are 0
+nsb.c.bc
+ 
+ total redundant are 1
+pdbio.c.bc
+ 
+ total redundant are 0
+tables.c.bc
+ 
+ total redundant are 88
+relax_sh.c.bc
+ 
+ total redundant are 19
+disre.c.bc
+ 
+ total redundant are 4
+pppm.c.bc
+ 
+ total redundant are 24
+init_sh.c.bc
+ 
+ total redundant are 3
+trnio.c.bc
+ 
+ total redundant are 0
+smalloc.c.bc
+ 
+ total redundant are 0
+pme.c.bc
+ 
+ total redundant are 22
+pullutil.c.bc
+ 
+ total redundant are 4
+ewald_util.c.bc
+ 
+ total redundant are 0
+libxdrf.c.bc
+ 
+ total redundant are 7
+memdump.c.bc
+ 
+ total redundant are 0
+viewit.c.bc
+ 
+ total redundant are 0
+mshift.c.bc
+ 
+ total redundant are 3
+edsam.c.bc
+ 
+ total redundant are 7
+f77_wrappers.c.bc
+ 
+ total redundant are 0
+enxio.c.bc
+ 
+ total redundant are 0
+vcm.c.bc
+ 
+ total redundant are 6
+tpxio.c.bc
+ 
+ total redundant are 0
+stat.c.bc
+ 
+ total redundant are 3
+minimize.c.bc
+ 
+ total redundant are 12
+index.c.bc
+ 
+ total redundant are 1
+confio.c.bc
+ 
+ total redundant are 2
+nsgrid.c.bc
+ 
+ total redundant are 2
+glaasje.c.bc
+ 
+ total redundant are 3
+shakef.c.bc
+ 
+ total redundant are 6
+mdebin.c.bc
+ 
+ total redundant are 4
+ghat.c.bc
+ 
+ total redundant are 0
+shift_util.c.bc
+ 
+ total redundant are 90
+constr.c.bc
+ 
+ total redundant are 8
+writeps.c.bc
+ 
+ total redundant are 0
+trxio.c.bc
+ 
+ total redundant are 0
+gbutil.c.bc
+ 
+ total redundant are 2
+md.c.bc
+ 
+ total redundant are 0
+block_tx.c.bc
+ 
+ total redundant are 0
+update.c.bc
+ 
+ total redundant are 19
+rbin.c.bc
+ 
+ total redundant are 0
+sim_util.c.bc
+ 
+ total redundant are 2
+bondfree.c.bc
+ 
+ total redundant are 0
+pullio.c.bc
+ 
+ total redundant are 0
+genalg.c.bc
+ 
+ total redundant are 0
+pargs.c.bc
+ 
+ total redundant are 4
+mdrun.c.bc
+ 
+ total redundant are 0
+orires.c.bc
+ 
+ total redundant are 3
+pull.c.bc
+ 
+ total redundant are 0
+atomprop.c.bc
+ 
+ total redundant are 0
+txtdump.c.bc
+ 
+ total redundant are 0
+rdgroup.c.bc
+ 
+ total redundant are 2
+gctio.c.bc
+ 
+ total redundant are 1
+poisson.c.bc
+ 
+ total redundant are 0
+csettle.c.bc
+ 
+ total redundant are 20
+fatal.c.bc
+ 
+ total redundant are 0
+futil.c.bc
+ 
+ total redundant are 0
+names.c.bc
+ 
+ total redundant are 0
+calcvir.c.bc
+ 
+ total redundant are 18
+matio.c.bc
+ 
+ total redundant are 19
+random.c.bc
+ 
+ total redundant are 1
+vec.c.bc
+ 
+ total redundant are 0
+rando.c.bc
+ 
+ total redundant are 0
+readinp.c.bc
+ 
+ total redundant are 3
+ewald.c.bc
+ 
+ total redundant are 9
+binio.c.bc
+ 
+ total redundant are 0
+fnbf.c.bc
+ 
+ total redundant are 14
+wnblist.c.bc
+ 
+ total redundant are 1
+psgather.c.bc
+ 
+ total redundant are 4
+symtab.c.bc
+ 
+ total redundant are 0
+buffer.c.bc
+ 
+ total redundant are 0
+mvdata.c.bc
+ 
+ total redundant are 0
+comlib.c.bc
+ 
+ total redundant are 0
+clincs.c.bc
+ 
+ total redundant are 5
+strdb.c.bc
+ 
+ total redundant are 0
+xdrd.c.bc
+ 
+ total redundant are 0
+calch.c.bc
+ 
+ total redundant are 0
+princ.c.bc
+ 
+ total redundant are 0
+main.c.bc
+ 
+ total redundant are 1
+coupling.c.bc
+ 
+ total redundant are 6
+do_fit.c.bc
+ 
+ total redundant are 1
+splittop.c.bc
+ 
+ total redundant are 2
+xtcio.c.bc
+ 
+ total redundant are 0
+xvgr.c.bc
+ 
+ total redundant are 3
+psspread.c.bc
+ 
+ total redundant are 0
+ns.c.bc
+ 
+ total redundant are 10
+ionize.c.bc
+ 
+ total redundant are 8
+nrama.c.bc
+ 
+ total redundant are 2
+macros.c.bc
+ 
+ total redundant are 0
+statutil.c.bc
+ 
+ total redundant are 15
+network.c.bc
+ 
+ total redundant are 0
+mvxvf.c.bc
+ 
+ total redundant are 8
+copyrite.c.bc
+ 
+ total redundant are 0
+gmxfio.c.bc
+ 
+ total redundant are 1
+typedefs.c.bc
+ 
+ total redundant are 0
+pssolve.c.bc
+ 
+ total redundant are 1
+sortwater.c.bc
+ 
+ total redundant are 9
+dummies.c.bc
+ 
+ total redundant are 2
+invblock.c.bc
+ 
+ total redundant are 1

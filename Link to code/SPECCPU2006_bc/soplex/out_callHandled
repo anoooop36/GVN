@@ -1,0 +1,187 @@
+changesoplex.cc.bc
+
+ total no of redundant expression are: 0
+didxset.cc.bc
+
+ total no of redundant expression are: 0
+dsvector.cc.bc
+
+ total no of redundant expression are: 0
+dvector.cc.bc
+
+ total no of redundant expression are: 0
+enter.cc.bc
+
+ total no of redundant expression are: 4
+example.cc.bc
+
+ total no of redundant expression are: 0
+factor.cc.bc
+
+ total no of redundant expression are: 2
+forest.cc.bc
+
+ total no of redundant expression are: 3
+idxset.cc.bc
+
+ total no of redundant expression are: 0
+leave.cc.bc
+
+ total no of redundant expression are: 0
+lpcolset.cc.bc
+
+ total no of redundant expression are: 0
+lprow.cc.bc
+
+ total no of redundant expression are: 0
+lprowset.cc.bc
+
+ total no of redundant expression are: 0
+message.cc.bc
+
+ total no of redundant expression are: 0
+mpsinput.cc.bc
+
+ total no of redundant expression are: 0
+nameset.cc.bc
+
+ total no of redundant expression are: 0
+slufactor.cc.bc
+
+ total no of redundant expression are: 0
+solve.cc.bc
+
+ total no of redundant expression are: 2
+soplex.cc.bc
+
+ total no of redundant expression are: 0
+spxaggregatesm.cc.bc
+
+ total no of redundant expression are: 6
+spxbasis.cc.bc
+
+ total no of redundant expression are: 0
+spxbounds.cc.bc
+
+ total no of redundant expression are: 0
+spxchangebasis.cc.bc
+
+ total no of redundant expression are: 0
+spxdefaultpr.cc.bc
+
+ total no of redundant expression are: 0
+spxdefaultrt.cc.bc
+
+ total no of redundant expression are: 0
+spxdefines.cc.bc
+
+ total no of redundant expression are: 0
+spxdesc.cc.bc
+
+ total no of redundant expression are: 0
+spxequilisc.cc.bc
+
+ total no of redundant expression are: 0
+spxfastrt.cc.bc
+
+ total no of redundant expression are: 8
+spxgeneralsm.cc.bc
+
+ total no of redundant expression are: 0
+spxharrisrt.cc.bc
+
+ total no of redundant expression are: 4
+spxhybridpr.cc.bc
+
+ total no of redundant expression are: 0
+spxid.cc.bc
+
+ total no of redundant expression are: 0
+spxio.cc.bc
+
+ total no of redundant expression are: 1
+spxlp.cc.bc
+
+ total no of redundant expression are: 0
+spxlpfread.cc.bc
+
+ total no of redundant expression are: 1
+spxmpsread.cc.bc
+
+ total no of redundant expression are: 0
+spxmpswrite.cc.bc
+
+ total no of redundant expression are: 0
+spxparmultpr.cc.bc
+
+ total no of redundant expression are: 0
+spxquality.cc.bc
+
+ total no of redundant expression are: 0
+spxredundantsm.cc.bc
+
+ total no of redundant expression are: 13
+spxrem1sm.cc.bc
+
+ total no of redundant expression are: 2
+spxscaler.cc.bc
+
+ total no of redundant expression are: 0
+spxshift.cc.bc
+
+ total no of redundant expression are: 4
+spxsolve.cc.bc
+
+ total no of redundant expression are: 0
+spxsolver.cc.bc
+
+ total no of redundant expression are: 0
+spxstarter.cc.bc
+
+ total no of redundant expression are: 0
+spxsteeppr.cc.bc
+
+ total no of redundant expression are: 0
+spxsumst.cc.bc
+
+ total no of redundant expression are: 0
+spxvecs.cc.bc
+
+ total no of redundant expression are: 0
+spxvectorst.cc.bc
+
+ total no of redundant expression are: 0
+spxweightpr.cc.bc
+
+ total no of redundant expression are: 0
+spxweightst.cc.bc
+
+ total no of redundant expression are: 5
+ssvector.cc.bc
+
+ total no of redundant expression are: 0
+svector.cc.bc
+
+ total no of redundant expression are: 0
+svset.cc.bc
+
+ total no of redundant expression are: 4
+timer.cc.bc
+
+ total no of redundant expression are: 0
+unitvector.cc.bc
+
+ total no of redundant expression are: 0
+update.cc.bc
+
+ total no of redundant expression are: 0
+updatevector.cc.bc
+
+ total no of redundant expression are: 0
+vector.cc.bc
+
+ total no of redundant expression are: 1
+vsolve.cc.bc
+
+ total no of redundant expression are: 4
+

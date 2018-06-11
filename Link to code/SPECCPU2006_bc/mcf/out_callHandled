@@ -1,0 +1,34 @@
+implicit.c.bc
+
+ total no of redundant expression are: 33
+mcf.c.bc
+
+ total no of redundant expression are: 0
+mcfutil.c.bc
+
+ total no of redundant expression are: 0
+output.c.bc
+
+ total no of redundant expression are: 0
+pbeampp.c.bc
+
+ total no of redundant expression are: 0
+pbla.c.bc
+
+ total no of redundant expression are: 0
+pflowup.c.bc
+
+ total no of redundant expression are: 0
+psimplex.c.bc
+
+ total no of redundant expression are: 0
+pstart.c.bc
+
+ total no of redundant expression are: 0
+readmin.c.bc
+
+ total no of redundant expression are: 3
+treeup.c.bc
+
+ total no of redundant expression are: 0
+

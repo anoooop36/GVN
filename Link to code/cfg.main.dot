@@ -1,0 +1,14 @@
+digraph "CFG for 'main' function" {
+	label="CFG for 'main' function";
+
+	Node0x743ccd0 [shape=record,label="{entry:\l  %retval = alloca i32, align 4\l  %x = alloca i32, align 4\l  %y = alloca i32, align 4\l  %p = alloca i32, align 4\l  %q = alloca i32, align 4\l  %t = alloca i32, align 4\l  %i = alloca i32, align 4\l  store i32 0, i32* %retval, align 4\l  store i32 1, i32* %x, align 4\l  store i32 2, i32* %y, align 4\l  %tmp = load i32, i32* %x, align 4\l  %tmp1 = load i32, i32* %y, align 4\l  %add = add nsw i32 %tmp, %tmp1\l  store i32 %add, i32* %t, align 4\l  store i32 0, i32* %i, align 4\l  br label %for.cond\l}"];
+	Node0x743ccd0 -> Node0x743dce0;
+	Node0x743dce0 [shape=record,label="{for.cond:                                         \l  %tmp2 = load i32, i32* %i, align 4\l  %cmp = icmp slt i32 %tmp2, 5\l  br i1 %cmp, label %for.body, label %for.end\l|{<s0>T|<s1>F}}"];
+	Node0x743dce0:s0 -> Node0x743dfe0;
+	Node0x743dce0:s1 -> Node0x743e0c0;
+	Node0x743dfe0 [shape=record,label="{for.body:                                         \l  %tmp3 = load i32, i32* %x, align 4\l  %tmp4 = load i32, i32* %y, align 4\l  %add1 = add nsw i32 %tmp3, %tmp4\l  store i32 %add1, i32* %t, align 4\l  br label %for.inc\l}"];
+	Node0x743dfe0 -> Node0x743e3e0;
+	Node0x743e3e0 [shape=record,label="{for.inc:                                          \l  %tmp5 = load i32, i32* %i, align 4\l  %inc = add nsw i32 %tmp5, 1\l  store i32 %inc, i32* %i, align 4\l  br label %for.cond\l}"];
+	Node0x743e3e0 -> Node0x743dce0;
+	Node0x743e0c0 [shape=record,label="{for.end:                                          \l  %tmp6 = load i32, i32* %retval, align 4\l  ret i32 %tmp6\l}"];
+}

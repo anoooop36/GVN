@@ -1,0 +1,130 @@
+agc.c.bc
+
+ total no of redundant expression are: 0
+approx_cont_mgau.c.bc
+
+ total no of redundant expression are: 0
+ascr.c.bc
+
+ total no of redundant expression are: 0
+beam.c.bc
+
+ total no of redundant expression are: 0
+bio.c.bc
+
+ total no of redundant expression are: 0
+case.c.bc
+
+ total no of redundant expression are: 0
+ckd_alloc.c.bc
+
+ total no of redundant expression are: 0
+cmd_ln.c.bc
+
+ total no of redundant expression are: 1
+cmn.c.bc
+
+ total no of redundant expression are: 0
+cmn_prior.c.bc
+
+ total no of redundant expression are: 0
+cont_mgau.c.bc
+
+ total no of redundant expression are: 2
+dict.c.bc
+
+ total no of redundant expression are: 2
+dict2pid.c.bc
+
+ total no of redundant expression are: 1
+err.c.bc
+
+ total no of redundant expression are: 0
+feat.c.bc
+
+ total no of redundant expression are: 5
+fillpen.c.bc
+
+ total no of redundant expression are: 0
+glist.c.bc
+
+ total no of redundant expression are: 0
+gs.c.bc
+
+ total no of redundant expression are: 0
+hash.c.bc
+
+ total no of redundant expression are: 0
+heap.c.bc
+
+ total no of redundant expression are: 0
+hmm.c.bc
+
+ total no of redundant expression are: 0
+kb.c.bc
+
+ total no of redundant expression are: 2
+kbcore.c.bc
+
+ total no of redundant expression are: 0
+lextree.c.bc
+
+ total no of redundant expression are: 0
+live.c.bc
+
+ total no of redundant expression are: 0
+lm.c.bc
+
+ total no of redundant expression are: 0
+lmclass.c.bc
+
+ total no of redundant expression are: 0
+logs3.c.bc
+
+ total no of redundant expression are: 2
+mdef.c.bc
+
+ total no of redundant expression are: 1
+new_fe.c.bc
+
+ total no of redundant expression are: 0
+new_fe_sp.c.bc
+
+ total no of redundant expression are: 4
+parse_args_file.c.bc
+
+ total no of redundant expression are: 0
+profile.c.bc
+
+ total no of redundant expression are: 0
+spec_main_live_pretend.c.bc
+
+ total no of redundant expression are: 1
+specrand.c.bc
+
+ total no of redundant expression are: 0
+str2words.c.bc
+
+ total no of redundant expression are: 0
+subvq.c.bc
+
+ total no of redundant expression are: 0
+tmat.c.bc
+
+ total no of redundant expression are: 1
+unlimit.c.bc
+
+ total no of redundant expression are: 0
+utt.c.bc
+
+ total no of redundant expression are: 4
+vector.c.bc
+
+ total no of redundant expression are: 4
+vithist.c.bc
+
+ total no of redundant expression are: 0
+wid.c.bc
+
+ total no of redundant expression are: 0
+

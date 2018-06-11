@@ -1,0 +1,16 @@
+go to llvm/lib/Transforms/Hello
+modify cmakeList by-
+#on line 5-   
+"Hello.exports " 
+
+#in add_llvm_loadable
+add Hello.cpp 
+
+
+#in transfoms cmake
+add Hello
+
+goto llvm/build
+cmake
+make
+build/lib has llvmhello.so

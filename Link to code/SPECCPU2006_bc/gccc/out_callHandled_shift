@@ -1,0 +1,204 @@
+alloca.c.bc
+
+ total no of redundant expression are: 0
+aspri tf.c.bc
+
+ total no of redundant expression are: 0
+attribs.c.bc
+
+ total no of redundant expression are: 1
+bitmap.c.bc
+
+ total no of redundant expression are: 0
+builti s.c.bc
+
+ total no of redundant expression are: 14
+c co v rt.c.bc
+
+ total no of redundant expression are: 0
+calls.c.bc
+
+ total no of redundant expression are: 17
+co cat.c.bc
+
+ total no of redundant expression are: 0
+co v rt.c.bc
+
+ total no of redundant expression are: 1
+cppd fault.c.bc
+
+ total no of redundant expression are: 0
+cpp rror.c.bc
+
+ total no of redundant expression are: 0
+cpp xp.c.bc
+
+ total no of redundant expression are: 1
+cpphash.c.bc
+
+ total no of redundant expression are: 0
+cppi it.c.bc
+
+ total no of redundant expression are: 0
+cppl x.c.bc
+
+ total no of redundant expression are: 1
+cpplib.c.bc
+
+ total no of redundant expression are: 1
+cppmacro.c.bc
+
+ total no of redundant expression are: 1
+dbxout.c.bc
+
+ total no of redundant expression are: 0
+d bug.c.bc
+
+ total no of redundant expression are: 0
+diag ostic.c.bc
+
+ total no of redundant expression are: 0
+dwarf2out.c.bc
+
+ total no of redundant expression are: 19
+dwarfout.c.bc
+
+ total no of redundant expression are: 0
+ xplow.c.bc
+
+ total no of redundant expression are: 3
+ xpm d.c.bc
+
+ total no of redundant expression are: 54
+g  rtl.c.bc
+
+ total no of redundant expression are: 0
+g tpwd.c.bc
+
+ total no of redundant expression are: 0
+ggc pag .c.bc
+
+ total no of redundant expression are: 3
+hash.c.bc
+
+ total no of redundant expression are: 0
+hashtabl .c.bc
+
+ total no of redundant expression are: 0
+h x.c.bc
+
+ total no of redundant expression are: 0
+hooks.c.bc
+
+ total no of redundant expression are: 0
+i s   xtract.c.bc
+
+ total no of redundant expression are: 0
+i s  opi it.c.bc
+
+ total no of redundant expression are: 199
+i s  p  p.c.bc
+
+ total no of redundant expression are: 0
+i s  r cog.c.bc
+
+ total no of redundant expression are: 50
+i tl.c.bc
+
+ total no of redundant expression are: 0
+lbas  am .c.bc
+
+ total no of redundant expression are: 0
+li .bc
+
+ total no of redundant expression are: 0
+li   map.c.bc
+
+ total no of redundant expression are: 0
+lists.c.bc
+
+ total no of redundant expression are: 0
+mai .c.bc
+
+ total no of redundant expression are: 0
+mbchar.c.bc
+
+ total no of redundant expression are: 0
+md5.c.bc
+
+ total no of redundant expression are: 3
+mkd ps.c.bc
+
+ total no of redundant expression are: 0
+obstack.c.bc
+
+ total no of redundant expression are: 0
+optabs.c.bc
+
+ total no of redundant expression are: 8
+params.c.bc
+
+ total no of redundant expression are: 0
+pri t tr  .c.bc
+
+ total no of redundant expression are: 0
+r al.c.bc
+
+ total no of redundant expression are: 0
+r load.c.bc
+
+ total no of redundant expression are: 74
+rtl  rror.c.bc
+
+ total no of redundant expression are: 0
+rtl.c.bc
+
+ total no of redundant expression are: 0
+rtla al.c.bc
+
+ total no of redundant expression are: 23
+sampl 1.bc
+
+ total no of redundant expression are: 1
+sdbout.c.bc
+
+ total no of redundant expression are: 0
+simplify rtx.c.bc
+
+ total no of redundant expression are: 17
+stor layout.c.bc
+
+ total no of redundant expression are: 14
+stri gpool.c.bc
+
+ total no of redundant expression are: 0
+tim var.c.bc
+
+ total no of redundant expression are: 0
+ucbqsort.c.bc
+
+ total no of redundant expression are: 0
+varray.c.bc
+
+ total no of redundant expression are: 0
+v rsio .c.bc
+
+ total no of redundant expression are: 0
+vmsdbgout.c.bc
+
+ total no of redundant expression are: 0
+xcoffout.c.bc
+
+ total no of redundant expression are: 0
+x xit.c.bc
+
+ total no of redundant expression are: 0
+xmalloc.c.bc
+
+ total no of redundant expression are: 0
+xstrdup.c.bc
+
+ total no of redundant expression are: 0
+xstr rror.c.bc
+
+ total no of redundant expression are: 0

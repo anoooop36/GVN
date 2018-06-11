@@ -1,0 +1,206 @@
+es.sh
+alloca.c.bc
+
+ total no of redundant expression are: 0
+asprintf.c.bc
+
+ total no of redundant expression are: 0
+attribs.c.bc
+
+ total no of redundant expression are: 1
+bitmap.c.bc
+
+ total no of redundant expression are: 0
+builtins.c.bc
+
+ total no of redundant expression are: 14
+c-convert.c.bc
+
+ total no of redundant expression are: 0
+calls.c.bc
+
+ total no of redundant expression are: 17
+concat.c.bc
+
+ total no of redundant expression are: 0
+convert.c.bc
+
+ total no of redundant expression are: 1
+cppdefault.c.bc
+
+ total no of redundant expression are: 0
+cpperror.c.bc
+
+ total no of redundant expression are: 0
+cppexp.c.bc
+
+ total no of redundant expression are: 1
+cpphash.c.bc
+
+ total no of redundant expression are: 0
+cppinit.c.bc
+
+ total no of redundant expression are: 0
+cpplex.c.bc
+
+ total no of redundant expression are: 1
+cpplib.c.bc
+
+ total no of redundant expression are: 1
+cppmacro.c.bc
+
+ total no of redundant expression are: 1
+dbxout.c.bc
+
+ total no of redundant expression are: 0
+debug.c.bc
+
+ total no of redundant expression are: 0
+diagnostic.c.bc
+
+ total no of redundant expression are: 0
+dwarf2out.c.bc
+
+ total no of redundant expression are: 19
+dwarfout.c.bc
+
+ total no of redundant expression are: 0
+explow.c.bc
+
+ total no of redundant expression are: 3
+expmed.c.bc
+
+ total no of redundant expression are: 54
+genrtl.c.bc
+
+ total no of redundant expression are: 0
+getpwd.c.bc
+
+ total no of redundant expression are: 0
+ggc-page.c.bc
+
+ total no of redundant expression are: 3
+hash.c.bc
+
+ total no of redundant expression are: 0
+hashtable.c.bc
+
+ total no of redundant expression are: 0
+hex.c.bc
+
+ total no of redundant expression are: 0
+hooks.c.bc
+
+ total no of redundant expression are: 0
+insn-extract.c.bc
+
+ total no of redundant expression are: 0
+insn-opinit.c.bc
+
+ total no of redundant expression are: 199
+insn-peep.c.bc
+
+ total no of redundant expression are: 0
+insn-recog.c.bc
+
+ total no of redundant expression are: 50
+intl.c.bc
+
+ total no of redundant expression are: 0
+lbasename.c.bc
+
+ total no of redundant expression are: 0
+lin.bc
+
+ total no of redundant expression are: 0
+line-map.c.bc
+
+ total no of redundant expression are: 0
+lists.c.bc
+
+ total no of redundant expression are: 0
+main.c.bc
+
+ total no of redundant expression are: 0
+mbchar.c.bc
+
+ total no of redundant expression are: 0
+md5.c.bc
+
+ total no of redundant expression are: 3
+mkdeps.c.bc
+
+ total no of redundant expression are: 0
+obstack.c.bc
+
+ total no of redundant expression are: 0
+optabs.c.bc
+
+ total no of redundant expression are: 8
+params.c.bc
+
+ total no of redundant expression are: 0
+print-tree.c.bc
+
+ total no of redundant expression are: 0
+real.c.bc
+
+ total no of redundant expression are: 0
+reload.c.bc
+
+ total no of redundant expression are: 74
+rtl-error.c.bc
+
+ total no of redundant expression are: 0
+rtl.c.bc
+
+ total no of redundant expression are: 0
+rtlanal.c.bc
+
+ total no of redundant expression are: 23
+sample1.bc
+
+ total no of redundant expression are: 1
+sdbout.c.bc
+
+ total no of redundant expression are: 0
+simplify-rtx.c.bc
+
+ total no of redundant expression are: 17
+stor-layout.c.bc
+
+ total no of redundant expression are: 14
+stringpool.c.bc
+
+ total no of redundant expression are: 0
+timevar.c.bc
+
+ total no of redundant expression are: 0
+ucbqsort.c.bc
+
+ total no of redundant expression are: 0
+varray.c.bc
+
+ total no of redundant expression are: 0
+version.c.bc
+
+ total no of redundant expression are: 0
+vmsdbgout.c.bc
+
+ total no of redundant expression are: 0
+xcoffout.c.bc
+
+ total no of redundant expression are: 0
+xexit.c.bc
+
+ total no of redundant expression are: 0
+xmalloc.c.bc
+
+ total no of redundant expression are: 0
+xstrdup.c.bc
+
+ total no of redundant expression are: 0
+xstrerror.c.bc
+
+ total no of redundant expression are: 0
+

@@ -1,0 +1,363 @@
+atomprop.c.bc
+
+ total no of redundant expression are: 0
+binio.c.bc
+
+ total no of redundant expression are: 0
+block_tx.c.bc
+
+ total no of redundant expression are: 0
+bondfree.c.bc
+
+ total no of redundant expression are: 0
+buffer.c.bc
+
+ total no of redundant expression are: 0
+calcgrid.c.bc
+
+ total no of redundant expression are: 0
+calch.c.bc
+
+ total no of redundant expression are: 0
+calcmu.c.bc
+
+ total no of redundant expression are: 0
+calcvir.c.bc
+
+ total no of redundant expression are: 18
+clincs.c.bc
+
+ total no of redundant expression are: 5
+comlib.c.bc
+
+ total no of redundant expression are: 0
+confio.c.bc
+
+ total no of redundant expression are: 0
+constr.c.bc
+
+ total no of redundant expression are: 10
+copyrite.c.bc
+
+ total no of redundant expression are: 0
+coupling.c.bc
+
+ total no of redundant expression are: 3
+csettle.c.bc
+
+ total no of redundant expression are: 15
+disre.c.bc
+
+ total no of redundant expression are: 2
+do_fit.c.bc
+
+ total no of redundant expression are: 1
+do_gct.c.bc
+
+ total no of redundant expression are: 9
+dummies.c.bc
+
+ total no of redundant expression are: 2
+ebin.c.bc
+
+ total no of redundant expression are: 0
+edsam.c.bc
+
+ total no of redundant expression are: 4
+enxio.c.bc
+
+ total no of redundant expression are: 0
+ewald.c.bc
+
+ total no of redundant expression are: 8
+ewald_util.c.bc
+
+ total no of redundant expression are: 0
+f77_wrappers.c.bc
+
+ total no of redundant expression are: 0
+fatal.c.bc
+
+ total no of redundant expression are: 0
+ffscanf.c.bc
+
+ total no of redundant expression are: 0
+fftgrid.c.bc
+
+ total no of redundant expression are: 2
+filenm.c.bc
+
+ total no of redundant expression are: 1
+fnbf.c.bc
+
+ total no of redundant expression are: 10
+force.c.bc
+
+ total no of redundant expression are: 18
+futil.c.bc
+
+ total no of redundant expression are: 0
+gbutil.c.bc
+
+ total no of redundant expression are: 2
+gctio.c.bc
+
+ total no of redundant expression are: 0
+genalg.c.bc
+
+ total no of redundant expression are: 0
+ghat.c.bc
+
+ total no of redundant expression are: 0
+glaasje.c.bc
+
+ total no of redundant expression are: 3
+gmx_system_xdr.c.bc
+
+ total no of redundant expression are: 0
+gmxfio.c.bc
+
+ total no of redundant expression are: 1
+ifunc.c.bc
+
+ total no of redundant expression are: 0
+index.c.bc
+
+ total no of redundant expression are: 0
+init.c.bc
+
+ total no of redundant expression are: 0
+init_sh.c.bc
+
+ total no of redundant expression are: 3
+invblock.c.bc
+
+ total no of redundant expression are: 1
+ionize.c.bc
+
+ total no of redundant expression are: 3
+libxdrf.c.bc
+
+ total no of redundant expression are: 7
+macros.c.bc
+
+ total no of redundant expression are: 0
+main.c.bc
+
+ total no of redundant expression are: 1
+maths.c.bc
+
+ total no of redundant expression are: 0
+matio.c.bc
+
+ total no of redundant expression are: 15
+md.c.bc
+
+ total no of redundant expression are: 0
+mdatom.c.bc
+
+ total no of redundant expression are: 1
+mdebin.c.bc
+
+ total no of redundant expression are: 2
+mdrun.c.bc
+
+ total no of redundant expression are: 0
+memdump.c.bc
+
+ total no of redundant expression are: 0
+minimize.c.bc
+
+ total no of redundant expression are: 10
+mshift.c.bc
+
+ total no of redundant expression are: 5
+mvdata.c.bc
+
+ total no of redundant expression are: 0
+mvxvf.c.bc
+
+ total no of redundant expression are: 8
+names.c.bc
+
+ total no of redundant expression are: 0
+network.c.bc
+
+ total no of redundant expression are: 0
+nrama.c.bc
+
+ total no of redundant expression are: 2
+nrjac.c.bc
+
+ total no of redundant expression are: 0
+nrnb.c.bc
+
+ total no of redundant expression are: 0
+ns.c.bc
+
+ total no of redundant expression are: 10
+nsb.c.bc
+
+ total no of redundant expression are: 1
+nsgrid.c.bc
+
+ total no of redundant expression are: 2
+orires.c.bc
+
+ total no of redundant expression are: 2
+pargs.c.bc
+
+ total no of redundant expression are: 4
+pbc.c.bc
+
+ total no of redundant expression are: 2
+pdbio.c.bc
+
+ total no of redundant expression are: 0
+pme.c.bc
+
+ total no of redundant expression are: 30
+poisson.c.bc
+
+ total no of redundant expression are: 0
+pppm.c.bc
+
+ total no of redundant expression are: 24
+princ.c.bc
+
+ total no of redundant expression are: 0
+psgather.c.bc
+
+ total no of redundant expression are: 4
+pssolve.c.bc
+
+ total no of redundant expression are: 0
+psspread.c.bc
+
+ total no of redundant expression are: 0
+pull.c.bc
+
+ total no of redundant expression are: 0
+pullinit.c.bc
+
+ total no of redundant expression are: 0
+pullio.c.bc
+
+ total no of redundant expression are: 0
+pullutil.c.bc
+
+ total no of redundant expression are: 1
+rando.c.bc
+
+ total no of redundant expression are: 0
+random.c.bc
+
+ total no of redundant expression are: 0
+rbin.c.bc
+
+ total no of redundant expression are: 0
+rdgroup.c.bc
+
+ total no of redundant expression are: 1
+readinp.c.bc
+
+ total no of redundant expression are: 1
+relax_sh.c.bc
+
+ total no of redundant expression are: 12
+replace.c.bc
+
+ total no of redundant expression are: 8
+rmpbc.c.bc
+
+ total no of redundant expression are: 0
+shakef.c.bc
+
+ total no of redundant expression are: 5
+shift_util.c.bc
+
+ total no of redundant expression are: 35
+sim_util.c.bc
+
+ total no of redundant expression are: 0
+smalloc.c.bc
+
+ total no of redundant expression are: 0
+sortwater.c.bc
+
+ total no of redundant expression are: 2
+splittop.c.bc
+
+ total no of redundant expression are: 3
+stat.c.bc
+
+ total no of redundant expression are: 3
+statutil.c.bc
+
+ total no of redundant expression are: 10
+strdb.c.bc
+
+ total no of redundant expression are: 0
+symtab.c.bc
+
+ total no of redundant expression are: 0
+synclib.c.bc
+
+ total no of redundant expression are: 0
+tables.c.bc
+
+ total no of redundant expression are: 37
+tgroup.c.bc
+
+ total no of redundant expression are: 0
+tpxio.c.bc
+
+ total no of redundant expression are: 1
+trnio.c.bc
+
+ total no of redundant expression are: 0
+trxio.c.bc
+
+ total no of redundant expression are: 0
+txtdump.c.bc
+
+ total no of redundant expression are: 0
+typedefs.c.bc
+
+ total no of redundant expression are: 0
+update.c.bc
+
+ total no of redundant expression are: 16
+vcm.c.bc
+
+ total no of redundant expression are: 3
+vec.c.bc
+
+ total no of redundant expression are: 0
+viewit.c.bc
+
+ total no of redundant expression are: 0
+wgms.c.bc
+
+ total no of redundant expression are: 0
+wman.c.bc
+
+ total no of redundant expression are: 0
+wnblist.c.bc
+
+ total no of redundant expression are: 1
+writeps.c.bc
+
+ total no of redundant expression are: 0
+xdrd.c.bc
+
+ total no of redundant expression are: 0
+xtcio.c.bc
+
+ total no of redundant expression are: 0
+xutils.c.bc
+
+ total no of redundant expression are: 9
+xvgr.c.bc
+
+ total no of redundant expression are: 1

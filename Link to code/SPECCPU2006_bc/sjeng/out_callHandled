@@ -1,0 +1,58 @@
+attacks.c.bc
+
+ total no of redundant expression are: 0
+book.c.bc
+
+ total no of redundant expression are: 0
+crazy.c.bc
+
+ total no of redundant expression are: 0
+draw.c.bc
+
+ total no of redundant expression are: 4
+ecache.c.bc
+
+ total no of redundant expression are: 0
+epd.c.bc
+
+ total no of redundant expression are: 0
+eval.c.bc
+
+ total no of redundant expression are: 23
+leval.c.bc
+
+ total no of redundant expression are: 6
+moves.c.bc
+
+ total no of redundant expression are: 80
+neval.c.bc
+
+ total no of redundant expression are: 43
+partner.c.bc
+
+ total no of redundant expression are: 0
+proof.c.bc
+
+ total no of redundant expression are: 8
+rcfile.c.bc
+
+ total no of redundant expression are: 0
+search.c.bc
+
+ total no of redundant expression are: 26
+see.c.bc
+
+ total no of redundant expression are: 0
+seval.c.bc
+
+ total no of redundant expression are: 6
+sjeng.c.bc
+
+ total no of redundant expression are: 0
+ttable.c.bc
+
+ total no of redundant expression are: 0
+utils.c.bc
+
+ total no of redundant expression are: 3
+

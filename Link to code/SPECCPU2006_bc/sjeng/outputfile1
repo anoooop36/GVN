@@ -1,0 +1,57 @@
+sjeng.c.bc
+ 
+ total redundant are 0
+partner.c.bc
+ 
+ total redundant are 0
+eval.c.bc
+ 
+ total redundant are 20
+seval.c.bc
+ 
+ total redundant are 4
+ecache.c.bc
+ 
+ total redundant are 0
+leval.c.bc
+ 
+ total redundant are 4
+moves.c.bc
+ 
+ total redundant are 90
+proof.c.bc
+ 
+ total redundant are 8
+attacks.c.bc
+ 
+ total redundant are 0
+crazy.c.bc
+ 
+ total redundant are 0
+epd.c.bc
+ 
+ total redundant are 0
+see.c.bc
+ 
+ total redundant are 0
+book.c.bc
+ 
+ total redundant are 0
+utils.c.bc
+ 
+ total redundant are 3
+draw.c.bc
+ 
+ total redundant are 4
+search.c.bc
+ 
+ total redundant are 35
+neval.c.bc
+ 
+ total redundant are 42
+rcfile.c.bc
+ 
+ total redundant are 0
+ttable.c.bc
+ 
+ total redundant are 0

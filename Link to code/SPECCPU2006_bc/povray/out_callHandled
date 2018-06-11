@@ -1,0 +1,277 @@
+atmosph.cpp.bc
+
+ total no of redundant expression are: 2
+bcyl.cpp.bc
+
+ total no of redundant expression are: 4
+bezier.cpp.bc
+
+ total no of redundant expression are: 10
+blob.cpp.bc
+
+ total no of redundant expression are: 16
+boxes.cpp.bc
+
+ total no of redundant expression are: 0
+camera.cpp.bc
+
+ total no of redundant expression are: 0
+chi2.cpp.bc
+
+ total no of redundant expression are: 0
+colour.cpp.bc
+
+ total no of redundant expression are: 0
+colutils.cpp.bc
+
+ total no of redundant expression are: 0
+cones.cpp.bc
+
+ total no of redundant expression are: 3
+csg.cpp.bc
+
+ total no of redundant expression are: 0
+defaultplatformbase.cpp.bc
+
+ total no of redundant expression are: 0
+defaultrenderfrontend.cpp.bc
+
+ total no of redundant expression are: 0
+discs.cpp.bc
+
+ total no of redundant expression are: 2
+express.cpp.bc
+
+ total no of redundant expression are: 0
+fileinputoutput.cpp.bc
+
+ total no of redundant expression are: 0
+fncode.cpp.bc
+
+ total no of redundant expression are: 0
+fnintern.cpp.bc
+
+ total no of redundant expression are: 53
+fnpovfpu.cpp.bc
+
+ total no of redundant expression are: 3
+fnsyntax.cpp.bc
+
+ total no of redundant expression are: 0
+fpmetric.cpp.bc
+
+ total no of redundant expression are: 11
+fractal.cpp.bc
+
+ total no of redundant expression are: 4
+function.cpp.bc
+
+ total no of redundant expression are: 0
+hcmplx.cpp.bc
+
+ total no of redundant expression are: 24
+hfield.cpp.bc
+
+ total no of redundant expression are: 15
+histogra.cpp.bc
+
+ total no of redundant expression are: 0
+iff.cpp.bc
+
+ total no of redundant expression are: 3
+image.cpp.bc
+
+ total no of redundant expression are: 12
+interior.cpp.bc
+
+ total no of redundant expression are: 0
+lathe.cpp.bc
+
+ total no of redundant expression are: 0
+lbuffer.cpp.bc
+
+ total no of redundant expression are: 0
+lightgrp.cpp.bc
+
+ total no of redundant expression are: 0
+lighting.cpp.bc
+
+ total no of redundant expression are: 15
+mathutil.cpp.bc
+
+ total no of redundant expression are: 0
+matrices.cpp.bc
+
+ total no of redundant expression are: 53
+mesh.cpp.bc
+
+ total no of redundant expression are: 0
+normal.cpp.bc
+
+ total no of redundant expression are: 0
+objects.cpp.bc
+
+ total no of redundant expression are: 0
+octree.cpp.bc
+
+ total no of redundant expression are: 4
+optout.cpp.bc
+
+ total no of redundant expression are: 0
+parse.cpp.bc
+
+ total no of redundant expression are: 1
+parsestr.cpp.bc
+
+ total no of redundant expression are: 0
+parstxtr.cpp.bc
+
+ total no of redundant expression are: 0
+pattern.cpp.bc
+
+ total no of redundant expression are: 36
+pgm.cpp.bc
+
+ total no of redundant expression are: 0
+photons.cpp.bc
+
+ total no of redundant expression are: 18
+pigment.cpp.bc
+
+ total no of redundant expression are: 0
+planes.cpp.bc
+
+ total no of redundant expression are: 0
+point.cpp.bc
+
+ total no of redundant expression are: 0
+poly.cpp.bc
+
+ total no of redundant expression are: 6
+polygon.cpp.bc
+
+ total no of redundant expression are: 0
+polysolv.cpp.bc
+
+ total no of redundant expression are: 1
+pov_mem.cpp.bc
+
+ total no of redundant expression are: 1
+pov_util.cpp.bc
+
+ total no of redundant expression are: 0
+povms.cpp.bc
+
+ total no of redundant expression are: 0
+povmscpp.cpp.bc
+
+ total no of redundant expression are: 0
+povmsrec.cpp.bc
+
+ total no of redundant expression are: 0
+povray.cpp.bc
+
+ total no of redundant expression are: 0
+ppm.cpp.bc
+
+ total no of redundant expression are: 0
+prism.cpp.bc
+
+ total no of redundant expression are: 3
+processoptions.cpp.bc
+
+ total no of redundant expression are: 0
+processrenderoptions.cpp.bc
+
+ total no of redundant expression are: 0
+quadrics.cpp.bc
+
+ total no of redundant expression are: 1
+quatern.cpp.bc
+
+ total no of redundant expression are: 2
+rad_data.cpp.bc
+
+ total no of redundant expression are: 0
+radiosit.cpp.bc
+
+ total no of redundant expression are: 6
+ray.cpp.bc
+
+ total no of redundant expression are: 1
+rendctrl.cpp.bc
+
+ total no of redundant expression are: 1
+render.cpp.bc
+
+ total no of redundant expression are: 24
+renderfrontend.cpp.bc
+
+ total no of redundant expression are: 0
+renderio.cpp.bc
+
+ total no of redundant expression are: 0
+sor.cpp.bc
+
+ total no of redundant expression are: 15
+spec_qsort.cpp.bc
+
+ total no of redundant expression are: 0
+specrand.cpp.bc
+
+ total no of redundant expression are: 0
+spheres.cpp.bc
+
+ total no of redundant expression are: 0
+splines.cpp.bc
+
+ total no of redundant expression are: 54
+statspov.cpp.bc
+
+ total no of redundant expression are: 0
+stringutilities.cpp.bc
+
+ total no of redundant expression are: 0
+targa.cpp.bc
+
+ total no of redundant expression are: 6
+textstream.cpp.bc
+
+ total no of redundant expression are: 0
+textstreambuffer.cpp.bc
+
+ total no of redundant expression are: 0
+texture.cpp.bc
+
+ total no of redundant expression are: 12
+tokenize.cpp.bc
+
+ total no of redundant expression are: 0
+torus.cpp.bc
+
+ total no of redundant expression are: 4
+triangle.cpp.bc
+
+ total no of redundant expression are: 0
+truetype.cpp.bc
+
+ total no of redundant expression are: 4
+txttest.cpp.bc
+
+ total no of redundant expression are: 0
+userdisp.cpp.bc
+
+ total no of redundant expression are: 0
+userio.cpp.bc
+
+ total no of redundant expression are: 0
+vbuffer.cpp.bc
+
+ total no of redundant expression are: 0
+vlbuffer.cpp.bc
+
+ total no of redundant expression are: 0
+warps.cpp.bc
+
+ total no of redundant expression are: 0
+

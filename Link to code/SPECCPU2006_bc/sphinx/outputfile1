@@ -1,0 +1,129 @@
+vithist.c.bc
+ 
+ total redundant are 0
+ckd_alloc.c.bc
+ 
+ total redundant are 1
+logs3.c.bc
+ 
+ total redundant are 2
+new_fe_sp.c.bc
+ 
+ total redundant are 3
+err.c.bc
+ 
+ total redundant are 0
+lextree.c.bc
+ 
+ total redundant are 0
+glist.c.bc
+ 
+ total redundant are 0
+ascr.c.bc
+ 
+ total redundant are 0
+hmm.c.bc
+ 
+ total redundant are 0
+beam.c.bc
+ 
+ total redundant are 0
+heap.c.bc
+ 
+ total redundant are 0
+utt.c.bc
+ 
+ total redundant are 0
+cmd_ln.c.bc
+ 
+ total redundant are 2
+vector.c.bc
+ 
+ total redundant are 5
+hash.c.bc
+ 
+ total redundant are 0
+dict.c.bc
+ 
+ total redundant are 2
+subvq.c.bc
+ 
+ total redundant are 0
+kbcore.c.bc
+ 
+ total redundant are 0
+unlimit.c.bc
+ 
+ total redundant are 0
+kb.c.bc
+ 
+ total redundant are 3
+specrand.c.bc
+ 
+ total redundant are 0
+approx_cont_mgau.c.bc
+ 
+ total redundant are 0
+cmn.c.bc
+ 
+ total redundant are 0
+profile.c.bc
+ 
+ total redundant are 0
+gs.c.bc
+ 
+ total redundant are 0
+lmclass.c.bc
+ 
+ total redundant are 0
+new_fe.c.bc
+ 
+ total redundant are 2
+bio.c.bc
+ 
+ total redundant are 0
+str2words.c.bc
+ 
+ total redundant are 0
+mdef.c.bc
+ 
+ total redundant are 4
+lm.c.bc
+ 
+ total redundant are 2
+dict2pid.c.bc
+ 
+ total redundant are 2
+agc.c.bc
+ 
+ total redundant are 0
+cont_mgau.c.bc
+ 
+ total redundant are 4
+fillpen.c.bc
+ 
+ total redundant are 0
+parse_args_file.c.bc
+ 
+ total redundant are 0
+case.c.bc
+ 
+ total redundant are 0
+feat.c.bc
+ 
+ total redundant are 11
+tmat.c.bc
+ 
+ total redundant are 0
+live.c.bc
+ 
+ total redundant are 0
+spec_main_live_pretend.c.bc
+ 
+ total redundant are 2
+cmn_prior.c.bc
+ 
+ total redundant are 0
+wid.c.bc
+ 
+ total redundant are 0
