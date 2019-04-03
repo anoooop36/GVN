@@ -3,4 +3,4 @@ Implementation of Detection of Redundant Expression using algorithm provided in 
 
 "Link to Hello" Contains Detection pass which can be run on LLVM intermediate Form.
 
-Link to Code contais sample cpp programs and spec file on which Detection can be performed using Pass given in "Link to Hello"
+Link to Code contains sample cpp programs and spec file on which Detection can be performed using Pass given in "Link to Hello"
